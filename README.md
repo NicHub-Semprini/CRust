@@ -1,0 +1,3 @@
+# CRust
+
+Chess with Rust!

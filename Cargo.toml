@@ -1,0 +1,9 @@
+[package]
+name = "crust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+anyhow = "1.0.86"
+enum_dispatch = "0.3.13"

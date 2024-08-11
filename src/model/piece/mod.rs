@@ -1,0 +1,8 @@
+pub mod bishop;
+pub mod color;
+pub mod king;
+pub mod knight;
+pub mod pawn;
+pub mod piece;
+pub mod queen;
+pub mod rook;
